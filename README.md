@@ -79,8 +79,8 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shyam-Makwana&show_icons=true&theme=graywhite" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shyam-Makwana&theme=graywhite" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Adesh101&show_icons=true&theme=graywhite" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Adesh101&theme=graywhite" />
 </p>
 
 ## 🔝 Most used languages
