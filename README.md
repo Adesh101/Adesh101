@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
+
 # Hey!!! Great to see you here! <img src="https://res.cloudinary.com/wdwfsdp/image/upload/v1653151976/wave_ynlhyq.gif" width="30px" height="30px">
 
 ![Header](https://res.cloudinary.com/wdwfsdp/image/upload/v1653152272/header_hqtwbx.png)
