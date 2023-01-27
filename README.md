@@ -82,7 +82,7 @@
 
 ## 🔝 Most used languages
 
-<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adesh101&layout=compact&theme=graywhite&langs_count=10" />
+<img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adesh101&layout=compact&theme=graywhite&langs_count=11" />
 
 <div align="center">
   <a href="https://github.com/Adesh101">
